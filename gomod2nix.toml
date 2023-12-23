@@ -1,0 +1,12 @@
+schema = 3
+
+[mod]
+  [mod."golang.org/x/text"]
+    version = "v0.0.0-20170915032832-14c0d48ead0c"
+    hash = "sha256-QvL3dBqEPKm2/NEF7iiYe8aQOsrynPwqGPKmSuWUReQ="
+  [mod."rsc.io/quote"]
+    version = "v1.5.2"
+    hash = "sha256-+aacLnLokTtAD+RIyfnSAZw3Dbk7fLKrlraEnjNCAVU="
+  [mod."rsc.io/sampler"]
+    version = "v1.3.0"
+    hash = "sha256-UPbUO3GOGn6/fz1EBEYONBX45V6bzQKQv6CoZb2Y3S8="
